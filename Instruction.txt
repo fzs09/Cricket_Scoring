@@ -1,0 +1,24 @@
+1.First run the project.then two internal frame
+  will appear.one is for batting and another is
+  for bowling.
+
+2.Enter the name of bowlers and batsmans accordingly.
+  the names will appesr on button's text.
+
+
+3.select one bowler and one batsman by clicking the
+  corresponding buttons.
+
+
+4.Now update the score according to bowlers and 
+  batsmans by clicking the buttons of runs, balls,
+  and out.
+
+
+5.If you want to see the score update click the 
+  "Display" button.Two frames will be appear.
+   one is for bowling score another is for 
+   batting score.If you drag one frame another 
+   frame will be seen.Every time you click the 
+   "Display" button you will get the upgrated 
+    score.
